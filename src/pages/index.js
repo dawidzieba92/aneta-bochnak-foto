@@ -61,30 +61,30 @@ export default class IndexPage extends React.Component {
             <div className="row">
               <div className="col-lg-3 col-md-6 text-center">
                 <div className="mt-5">
-                  <i className="fas fa-4x fa-gem text-primary mb-4"></i>
-                  <h3 className="h4 mb-2">Sturdy Themes</h3>
-                  <p className="text-muted mb-0">Our themes are updated regularly to keep them bug free!</p>
+                  <i className="fas fa-4x fa-camera text-primary mb-4"></i>
+                  <h3 className="h4 mb-2">Robienie zdjęć</h3>
+                  <p className="text-muted mb-0">Robimy zdjęcia</p>
                 </div>
               </div>
               <div className="col-lg-3 col-md-6 text-center">
                 <div className="mt-5">
-                  <i className="fas fa-4x fa-laptop-code text-primary mb-4"></i>
-                  <h3 className="h4 mb-2">Up to Date</h3>
-                  <p className="text-muted mb-0">All dependencies are kept current to keep things fresh.</p>
+                  <i className="fas fa-4x fa-camera-retro text-primary mb-4"></i>
+                  <h3 className="h4 mb-2">Fotobudka</h3>
+                  <p className="text-muted mb-0">Mamy takie coś</p>
                 </div>
               </div>
               <div className="col-lg-3 col-md-6 text-center">
                 <div className="mt-5">
-                  <i className="fas fa-4x fa-globe text-primary mb-4"></i>
-                  <h3 className="h4 mb-2">Ready to Publish</h3>
-                  <p className="text-muted mb-0">You can use this design as is, or you can make changes!</p>
+                  <i className="fas fa-4x fa-helicopter text-primary mb-4"></i>
+                  <h3 className="h4 mb-2">Drony</h3>
+                  <p className="text-muted mb-0">Latają</p>
                 </div>
               </div>
               <div className="col-lg-3 col-md-6 text-center">
                 <div className="mt-5">
                   <i className="fas fa-4x fa-heart text-primary mb-4"></i>
-                  <h3 className="h4 mb-2">Made with Love</h3>
-                  <p className="text-muted mb-0">Is it really open source if it's not made with love?</p>
+                  <h3 className="h4 mb-2">Napis MIŁOŚĆ</h3>
+                  <p className="text-muted mb-0">Albo LOVE, nie pamiętam</p>
                 </div>
               </div>
             </div>
