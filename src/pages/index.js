@@ -178,23 +178,31 @@ export default class IndexPage extends React.Component {
             </div>
             <div className="row">
               <div className="col-lg-3 col-sm-6 col-xs-12 ml-auto text-center ">
-                <i className="fas fa-phone fa-3x mb-3 text-muted"></i>
-                <div>+48 536 384 570</div>
+                <a className="d-block" href="tel:48-536-384-570">
+                  <i className="fas fa-phone fa-3x mb-3 text-muted"></i><br/>
+                  +48 536 384 570
+                </a>
                 <br/>
               </div>
               <div className="col-lg-3 col-sm-6 col-xs-12 mr-auto text-center">
-                <i className="fas fa-envelope fa-3x mb-3 text-muted"></i>
-                <a className="d-block" href="mailto:contact@yourwebsite.com">contact@yourwebsite.com</a>
+                <a className="d-block" href="mailto:contact@yourwebsite.com">
+                  <i className="fas fa-envelope fa-3x mb-3 text-muted"></i><br/>
+                  contact@yourwebsite.com
+                </a>
                 <br/>
               </div>
               <div className="col-lg-3 col-sm-6 col-xs-12 mr-auto text-center">
-                <i className="fab fa-facebook-f fa-3x mb-3 text-muted"></i>
-                <a className="d-block" target="_blank" href="https://www.facebook.com/AnetaBochnakFotografia/">Aneta Bochnak FOTOGRAFIA</a>
+                <a className="d-block" target="_blank" href="https://www.facebook.com/AnetaBochnakFotografia/">
+                  <i className="fab fa-facebook-f fa-3x mb-3 text-muted"></i><br/>
+                  Aneta Bochnak FOTOGRAFIA
+                </a>
                 <br/>
               </div>
               <div className="col-lg-3 col-sm-6 col-xs-12 mr-auto text-center">
-                <i className="fab fa-instagram fa-3x mb-3 text-muted"></i>
-                <a className="d-block" target="_blank" href="https://www.instagram.com/aneta_bochnak_fotografia">aneta_bochnak_fotografia</a>
+                <a className="d-block" target="_blank" href="https://www.instagram.com/aneta_bochnak_fotografia">
+                  <i className="fab fa-instagram fa-3x mb-3 text-muted"></i><br/>
+                  aneta_bochnak_fotografia
+                </a>
                 <br/>
               </div>
             </div>
